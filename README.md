@@ -8,4 +8,7 @@
 </p>
 
 ## My_Ds_Babel
-Data is heart of an information system. Converting them from a format to another or migrating them to another database is a very important skills.Your mission will be to help translate from one format to another. We will be working with 2 very popular format: SQL and CSV.
+Data is heart of an information system. </br>
+Converting them from a format to another or migrating them to another database is a very important skills.</br>
+Your mission will be to help translate from one format to another. </br>
+We will be working with 2 very popular format: SQL and CSV.</br>
